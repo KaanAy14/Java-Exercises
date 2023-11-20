@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//You can print a pyramid via using this code segment below.
 public class yildiz3 {
 
 	public static void main(String[] args) {
