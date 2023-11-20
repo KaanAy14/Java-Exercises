@@ -1,6 +1,6 @@
 import java.util.Scanner;
 //You can print a pyramid via using this code segment below.
-public class yildiz3 {
+public class pyramid {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
